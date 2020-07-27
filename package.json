@@ -1,20 +1,13 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  “name”: “@ryderoficial/green-wallet-template”,
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "Pinkish ARK Desktop Wallet theme",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "RyderOficial",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
-    "images": [
-      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/preview-1.png",
-      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/preview-2.png",
-      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/preview-3.png",
-      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/preview-4.png",
-      "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/preview-5.png"
-    ],
+    "title": "Green Template",
+
     "categories": [
       "theme"
     ],
@@ -31,14 +24,14 @@
     "plugin"
   ],
   "contributors": [
-    "Author Name"
+    "RyderOficial"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/ryderoficial/theme-template/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/ryderoficial/theme-template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+https://github.com/ryderoficial/theme-template.git"
   }
 }
